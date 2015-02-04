@@ -1,0 +1,1 @@
+Scrapes the [Our Buildings](http://www.condointernet.net/our-buildings/) page of Condo Internet and generates a tab delimited file which can be used with [Batchgeo](http://batchgeo.com/) to visualize building locations.
